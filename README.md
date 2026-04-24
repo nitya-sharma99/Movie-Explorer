@@ -1,6 +1,8 @@
 Smart Pokédex
 Project Description
 
+**Live Demo:** [https://nitya-sharma99.github.io/Movie-Explorer/](https://nitya-sharma99.github.io/Movie-Explorer/)
+
 Smart Pokédex is a web application built using JavaScript that allows users to explore Pokémon data in an interactive and user-friendly way.
 
 The application fetches real-time data from a public API and provides features like search, filtering, sorting, and favorites. It demonstrates core concepts of API integration, DOM manipulation, and modern UI design.
